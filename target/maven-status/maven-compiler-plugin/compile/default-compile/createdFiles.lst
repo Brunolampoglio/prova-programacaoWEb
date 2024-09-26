@@ -1,0 +1,15 @@
+com\fatec\alunos\service\CursoService.class
+com\fatec\alunos\service\AlunoService.class
+com\fatec\alunos\model\Curso.class
+com\fatec\alunos\servlet\AdicionarCurso.class
+com\fatec\alunos\servlet\BuscarAluno.class
+com\mycompany\alunos\resources\JakartaEE10Resource.class
+com\fatec\alunos\servlet\LoginServlet.class
+com\fatec\alunos\model\Aluno.class
+com\fatec\alunos\servlet\editarAluno.class
+com\fatec\alunos\servlet\ListarCursos.class
+com\fatec\alunos\servlet\DeletarAluno.class
+com\mycompany\alunos\JakartaRestConfiguration.class
+com\fatec\alunos\servlet\VisualizarAlunosServlet.class
+com\fatec\alunos\servlet\AdicionarAluno.class
+com\fatec\alunos\service\AuthService.class
